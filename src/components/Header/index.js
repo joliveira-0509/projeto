@@ -12,6 +12,9 @@ export default function Header() {
                     <li>
                         <Link href="/contato">Contato</Link>
                     </li>
+                    <li>
+                        <Link href="/state">Bom dia</Link>
+                    </li>
                 </ul>
             </nav>
         </header>
